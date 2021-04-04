@@ -3,5 +3,3 @@
 
 _la base de datos se encuentra en la carpeta doc_
 
-Demo Live
-https://demostracion.tk
