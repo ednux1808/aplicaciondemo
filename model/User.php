@@ -11,10 +11,10 @@ class User extends Server
     public function __construct($deploy)
     {
         if($deploy === "developer"):
-            $this->host = "159.89.129.181";
-            $this->port = "8934";
-            $this->user = "postgres";
-            $this->pass = "Udel$2021$1808Udel";
+            $this->host = "127.0.0.1";
+            $this->port = "3000";
+            $this->user = "acount";
+            $this->pass = "UX89nn1808";
             $this->dbname = "aplicacion_demostracion";
         else:
 
