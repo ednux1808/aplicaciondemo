@@ -1,0 +1,17 @@
+{
+  "name": "aplicaciondemo",
+  "version": "0.0.1",
+  "description": "Aplicación de prueba de test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "browser-sync start --proxy 'http://localhost:8888/aplicaciondemo/' --files '*.*' --port 8888"
+  },
+  "keywords": [
+    "aplicacion",
+    "html",
+    "php"
+  ],
+  "author": "Eduardo Zamora",
+  "license": "ISC"
+}
